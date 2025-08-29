@@ -1,12 +1,14 @@
 # CSP Solver
 
-[![Crates.io](https://img.shields.io/crates/v/csp.svg)](https://crates.io/crates/csp)
-[![Documentation](https://docs.rs/csp/badge.svg)](https://docs.rs/csp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A high-performance Constraint Satisfaction Problem (CSP) solver library written in Rust.
 
-We are starting the implementation from scratch.
+## Status
+
+The library is currently in active development. Features and APIs may change as we refine the implementation and add new functionality.
+
+We are starting the implementation from scratch, using different design principles and patterns.
 
 ## Overview
 
@@ -199,6 +201,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Constraint Processing (Rina Dechter)
 - Handbook of Constraint Programming (Rossi, van Beek, Walsh)
 
-## Status
-
-The library is currently in active development. Features and APIs may change as we refine the implementation and add new functionality.
